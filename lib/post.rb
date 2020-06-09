@@ -13,6 +13,11 @@ class Post
     @@all
   end  
   
-  def add_post_by_title
+  def author_name
+    if self.author == nil 
+      return nil 
+    end
+    @author.name
+  end
   
 end  
