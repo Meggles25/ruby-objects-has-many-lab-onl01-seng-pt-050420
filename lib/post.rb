@@ -24,13 +24,6 @@ class Post
     @author = author
   end
 
-  def post_count
-    @@post_count
-  end  
-  
-  
-
-
 
 end  
 
