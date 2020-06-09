@@ -13,5 +13,6 @@ class Post
     @@all
   end  
   
+  def add_post_by_title
   
 end  
