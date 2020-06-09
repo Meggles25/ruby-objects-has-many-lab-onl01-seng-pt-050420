@@ -20,4 +20,6 @@ class Post
     @author.name
   end
   
+  
+  
 end  
