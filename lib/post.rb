@@ -20,6 +20,8 @@ class Post
     @author.name
   end
   
-  
+  def author=(author)
+    @author = author
+  end
   
 end  
